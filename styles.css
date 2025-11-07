@@ -1,6 +1,18 @@
-h1 {
+h1, h3, h4 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: rgb(172, 3, 3);
     padding: 30px;
     margin-bottom: -20px;
+}
+
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 30px;
+    color: rgb(172, 3, 3);
+
+}
+
+ol, ul {
+    padding-left: 60px;
+    color: rgb(172, 3, 3);
 }
